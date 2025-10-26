@@ -162,7 +162,7 @@ After running the notebook, you'll find these new files:
 ## 📈 Tableau Dashboard
 
 An interactive dashboard visualizing flight delay patterns is available at:  
-**[Tableau Public Link - To be added]**
+**[Tableau Public Link - https://public.tableau.com/app/profile/shaileshkumar.k.parekh/viz/FlightDelayAnalysisAssignment/Dashboard2]**
 
 The dashboard shows:
 - Delay rates by airport
