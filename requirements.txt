@@ -1,0 +1,60 @@
+# Flight Delay Prediction Project - Requirements
+# Python 3.8+ recommended
+# Install: pip install -r requirements.txt
+
+# ============================================================================
+# PART A: On-Premises Analysis
+# ============================================================================
+
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# ============================================================================
+# PART B: AWS SageMaker Cloud Deployment
+# ============================================================================
+
+# AWS SDK and SageMaker
+boto3>=1.20.0
+sagemaker>=2.100.0
+
+# ============================================================================
+# JUPYTER NOTEBOOK SUPPORT (Optional)
+# ============================================================================
+
+# For local Jupyter development
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.4.0
+ipywidgets>=7.6.0
+
+# ============================================================================
+# UTILITIES
+# ============================================================================
+
+# Progress bars for data processing
+tqdm>=4.62.0
+
+# Date/time handling
+python-dateutil>=2.8.0
+
+# ============================================================================
+# INSTALLATION INSTRUCTIONS
+# ============================================================================
+
+# Local Development (Part A):
+# pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+
+# AWS SageMaker (Part B):
+# - boto3 and sagemaker are pre-installed in SageMaker notebooks
+# - You may only need to install: pip install pandas numpy scikit-learn
+
+# Full Installation:
+# pip install -r requirements.txt
